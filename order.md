@@ -4,4 +4,4 @@
 | 尾古 豊明             | Kotlin  |           | TBD                                 |
 | ryosms                | Gradle  |           | TBD                                 |
 | NISHIMOTO Keisuke     | Scala   | 30分      | ScalaはEdisonの夢を見る             |
-| Kamitsukasa Kazuyoshi | Java    |           | TBD                                 |
+| Kamitsukasa Kazuyoshi | Java    | 30分      | MinCamlJを作ってみた                |
